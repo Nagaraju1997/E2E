@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72393" started-at="2021-03-10T06:10:45Z" finished-at="2021-03-10T06:11:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72393" started-at="2021-03-10T06:10:45Z" finished-at="2021-03-10T06:11:57Z">
+      <class name="carsguide.Homepage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:carsguide.Homepage@1be656f]" name="setup" is-config="true" duration-ms="29879" started-at="2021-03-10T06:10:45Z" finished-at="2021-03-10T06:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:carsguide.Homepage@1be656f]" name="login" duration-ms="6684" started-at="2021-03-10T06:11:15Z" finished-at="2021-03-10T06:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:carsguide.Homepage@1be656f]" name="Teardown" is-config="true" duration-ms="839" started-at="2021-03-10T06:11:21Z" finished-at="2021-03-10T06:11:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:carsguide.Homepage@1be656f]" name="setup" is-config="true" duration-ms="28346" started-at="2021-03-10T06:11:22Z" finished-at="2021-03-10T06:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:carsguide.Homepage@1be656f]" name="logout" duration-ms="5764" started-at="2021-03-10T06:11:51Z" finished-at="2021-03-10T06:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:carsguide.Homepage@1be656f]" name="Teardown" is-config="true" duration-ms="818" started-at="2021-03-10T06:11:56Z" finished-at="2021-03-10T06:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- carsguide.Homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
